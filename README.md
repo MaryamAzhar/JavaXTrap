@@ -164,4 +164,13 @@ PROGRESS BAR:
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/53.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/54.png"/>
        
-CIRCLE PROGRESS BAR:
+<h3>CIRCLE PROGRESS BAR:</h3>
+
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/55.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/56.png"/>
+       
+<h3>SIZABLE CIRCLE PROGRESS BAR:</h3>
+
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/57.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/58.png"/>
+       
