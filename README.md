@@ -79,255 +79,89 @@ TEXT FIELDS WITH FIXED SIZE:
 
 <h4>CustomTextField mtf2 = new CustomTextField(203, 102, 200, 50, Color.cyan, Color.black, "text");</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/21.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/22.png"/>
-
- 
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/21.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/22.png"/>
 
 <h4>CustomTextField mtf3 = new CustomTextField(404, 102, 200, 50, Color.decode("#FFFFFF"),225, 63, 23);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/23.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/24.png"/>
-
- 
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/23.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/24.png"/>
 
 <h4>CustomTextField mtf4 = new CustomTextField(605, 102, 200, 50,Color.decode("#FFFFFF"),225, 63, 23,"text");</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/25.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/26.png"/>
-
- 
-
- 
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/25.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/26.png"/>
 
 <h4>CustomTextField mtf5 = new CustomTextField(806, 102, 200,50,  255, 255, 255,225, 63, 23  );</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/27.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/28.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/27.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/28.png"/>
  
-
-
-
-
 <h4>Custom TextField mtf6 =new CustomTextField(1007, 102, 200,50, 255, 255, 255,225, 63, 23 ,"text ");</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/29.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/30.png"/>
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/29.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/30.png"/>
 
 SIZABLE TEXT FIELDS :
 <h4>CustomTextArea mta1 = new CustomTextArea(0, 153, 200, 100, Color.black, Color.cyan);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/31.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/32.png"/>
-
- 
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/31.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/32.png"/>
 
 <h4>CustomTextArea mta2 = new CustomTextArea(203, 153, 200, 100, Color.cyan, Color.black, "text ");</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/33.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/34.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/33.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/34.png"/>
  
-
-
-
-
 <h4>CustomTextArea mta3 = new CustomTextArea(404, 153, 200,100,Color.decode("#FFFFFF"), 255, 63, 23);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/35.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/36.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/35.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/36.png"/>
  
-
-
-
-
 <h4>CustomTextArea mta4 = new CustomTextArea(605, 153, 200, 100,		Color.decode("#FFFFFF"),255, 63, 23,"text");</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/37.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/38.png"/>
-
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/37.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/38.png"/>
 
 <h4>CustomTextArea mta5 = new CustomTextArea(806, 153, 200,100, 255, 255, 255,255, 63, 23 );</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/39.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/40.png"/>
-
- 
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/39.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/40.png"/>
 
 <h4>CustomTextArea mta6 =new CustomTextArea(1007, 153, 200,100,  255, 255, 255,255, 63, 23 ,"text");</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/41.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/42.png"/>
-
-
-
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/41.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/42.png"/>
 
 PROGRESS BAR:
 <h4>CustomProgressBar mpb1 = new CustomProgressBar(151, 274, 150, 50, 0, 10);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/43.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/44.png"/>
- 
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/43.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/44.png"/>
 
 <h4>CustomProgressBar mpb2 = new CustomProgressBar(Color.darkGray , 301, 274, 150, 50, 10, 10);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/45.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/46.png"/>
- 
-
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/45.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/46.png"/>
 
 <h4>CustomProgressBar mpb3 = new CustomProgressBar(452, 274, 150, 50, 20, 10, Color.blue);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/47.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/48.png"/>
- 
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/47.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/48.png"/>
 
 <h4>CustomProgressBar mpb4 = new CustomProgressBar(602, 274, 150, 50, 30,10, Color.green, Color.red);</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/49.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/50.png"/>
-
- 
-
-
-
-
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/49.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/50.png"/>
 
 <h4>CustomProgressBar mpb5 = new CustomProgressBar(753, 274, 150, 50, 40, 10, 136, 202, 198, Color.yellow)</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/51.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/52.png"/>
-
-
-
- 
- 
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/51.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/52.png"/>
 
 <h4>CustomProgressBar mpb6 = new CustomProgressBar(904, 274, 150, 50, 50, 10, 255,255,255,199, 0, 57  );</h4>
 
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/53.png"/>
-
-
- <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/54.png"/>
- 
-        
-
-
-
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/53.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/54.png"/>
+       
 CIRCLE PROGRESS BAR:
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-SIZABLE CIRCLE PROGRESS BAR:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
