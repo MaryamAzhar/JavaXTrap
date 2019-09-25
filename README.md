@@ -20,15 +20,15 @@
 <li>import java.awt.*;</li>
 <li>import javax.swing.*;</li>
 </ol>
-	</h4>
+</h4>
+ <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/2.png"/)
 
 
 
 
 
 
-
-NOW YOU ARE ABLE TO USE THE COMPONENTS OF JAVA XTREP
+<h3>NOW YOU ARE ABLE TO USE THE COMPONENTS OF JAVAXTRAP</h3>
 DANGER BUTTON:
 CustomDangerousButton mdb = new CustomDangerousButton("DANGER", 0, 51);
 
