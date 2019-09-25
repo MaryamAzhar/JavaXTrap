@@ -1,25 +1,26 @@
 # JavaXTrep
 
 
-<h1>JavaXTrap : This is for Console base Desktop Apllication by Java</h1>
+<h1>JavaXTrap : This is for Console base Desktop Application by Java</h1>
 <h4>JavaXTrap is a package of swing library it will help your project building an AWT components.In this most of components are built in where your only have to call the class and use it instead of making your own.</h4>
 <h4>Java XTrep is a lightweight Graphical User Interface (GUI) toolkit that includes a rich set of widgets. It includes package lets you make GUI components for your Java applications, and It is platform independent.</h4>
 <h4>The Java XTrep library is built on top of the Java Abstract Widget Toolkit (AWT), an older, platform dependent GUI toolkit. You can use the Java GUI components like button, textbox, etc. from the library and do not have to create the components from scratch.</h4>
 
 <h2>STEPS TO USE JAVA XTREP IN YOUR PROJECTS :</h2>
-<h4>1.Add jar file of custom controls in your project.</h4>
+<h3>1.Add jar file of custom controls in your project.</h3>
  <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/1.png"/)
- <br/><br/><br/><br/><br/><br/><br/><br/>
+ <br/>
 
 
-
-<h4>2.Import libraries and package in your project</h4>
+<h3>2.Import libraries and package in your project</h3>
+<h4>
 <ol type="i">
- <li>package UsingCustomControls;</li>
- <li>import CustomControls.*;</li>
-	<li>import java.awt.*;</li>
-	<li>import javax.swing.*;</li>
+<li>package UsingCustomControls;</li>
+<li>import CustomControls.*;</li>
+<li>import java.awt.*;</li>
+<li>import javax.swing.*;</li>
 </ol>
+	</h4>
 
 
 
