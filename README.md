@@ -7,18 +7,19 @@
 <h4>The Java XTrep library is built on top of the Java Abstract Widget Toolkit (AWT), an older, platform dependent GUI toolkit. You can use the Java GUI components like button, textbox, etc. from the library and do not have to create the components from scratch.</h4>
 
 <h2>STEPS TO USE JAVA XTREP IN YOUR PROJECTS :</h2>
-<h4>1.Add jar file of custom controls in your project.</h4><br/><br/><br/><br/>
- 
- 
+<h4>1.Add jar file of custom controls in your project.</h4>
+ <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/1.png"/)
+ <br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
-2.Import libraries and package in your project
-•	package UsingCustomControls;
-•	import CustomControls.*;
-•	import java.awt.*;
-•	import javax.swing.*;
-
+<h4>2.Import libraries and package in your project</h4>
+<ol type="i">
+ <li>package UsingCustomControls;</li>
+ <li>import CustomControls.*;</li>
+	<li>import java.awt.*;</li>
+	<li>import javax.swing.*;</li>
+</ol>
 
 
 
