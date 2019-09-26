@@ -1,4 +1,4 @@
-# JavaXTrep
+# JavaXTrap
 
 <h1>JavaXTrap : This is for Console base Desktop Application by Java</h1>
 <h4>JavaXTrap is a package of swing library it will help your project building an AWT components.In this most of components are built in where your only have to call the class and use it instead of making your own.</h4>
