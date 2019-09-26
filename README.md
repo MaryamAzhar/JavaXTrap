@@ -52,7 +52,7 @@
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/11.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/12.png"/>
 
-<h3>SIZABLE  SUCCESS BUTTON :</h3>
+<h3>SIZABLE SUCCESS BUTTON :</h3>
 <h4>CustomSuccessButton msbc = new CustomSuccessButton("SUCCESS", 451,0 , 150, 50);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/13.png"/>
@@ -70,106 +70,127 @@
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/17.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/18.png"/>
 
-TEXT FIELDS:
-TEXT FIELDS WITH FIXED SIZE:
+<h2>TEXT FIELDS:</h2>
+
+<h3>Text Fields without Placeholder:</h3>
 <h4>CustomTextField mtf1 = new CustomTextField(0, 102, 200, 50, Color.BLACK,Color.CYAN);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/19.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/20.png"/>
 
+<h3>Text Fields with Placeholder:</h3>
 <h4>CustomTextField mtf2 = new CustomTextField(203, 102, 200, 50, Color.cyan, Color.black, "text");</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/21.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/22.png"/>
 
+<h3>Text Fields with Background Color in RGB & without Placeholder:</h3>
 <h4>CustomTextField mtf3 = new CustomTextField(404, 102, 200, 50, Color.decode("#FFFFFF"),225, 63, 23);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/23.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/24.png"/>
 
+<h3>Text Fields with Background Color in RGB & Placeholder:</h3>
 <h4>CustomTextField mtf4 = new CustomTextField(605, 102, 200, 50,Color.decode("#FFFFFF"),225, 63, 23,"text");</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/25.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/26.png"/>
 
+<h3>Text Fields with Background & Foreground Color in RGB & without Placeholder:</h3>
 <h4>CustomTextField mtf5 = new CustomTextField(806, 102, 200,50,  255, 255, 255,225, 63, 23  );</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/27.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/28.png"/>
  
+<h3>Text Fields with Background & Foreground Color in RGB & Placeholder:</h3>
 <h4>Custom TextField mtf6 =new CustomTextField(1007, 102, 200,50, 255, 255, 255,225, 63, 23 ,"text ");</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/29.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/30.png"/>
 
-SIZABLE TEXT FIELDS :
+<h2>Text Areas :</h2>
+
+<h3>Text Area without Placeholder:</h3>
 <h4>CustomTextArea mta1 = new CustomTextArea(0, 153, 200, 100, Color.black, Color.cyan);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/31.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/32.png"/>
 
+<h3>Text Area with Placeholder:</h3>
 <h4>CustomTextArea mta2 = new CustomTextArea(203, 153, 200, 100, Color.cyan, Color.black, "text ");</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/33.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/34.png"/>
  
+<h3>Text Area with Background Color in RGB & without Placeholder:</h3>
 <h4>CustomTextArea mta3 = new CustomTextArea(404, 153, 200,100,Color.decode("#FFFFFF"), 255, 63, 23);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/35.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/36.png"/>
  
+<h3>Text Area with Background Color in RGB & Placeholder:</h3>
 <h4>CustomTextArea mta4 = new CustomTextArea(605, 153, 200, 100,		Color.decode("#FFFFFF"),255, 63, 23,"text");</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/37.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/38.png"/>
 
+<h3>Text Area with Background & Foreground Color in RGB & without Placeholder:</h3>
 <h4>CustomTextArea mta5 = new CustomTextArea(806, 153, 200,100, 255, 255, 255,255, 63, 23 );</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/39.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/40.png"/>
 
+<h3>Text Area with Background Color in RGB & Placeholder:</h3>
 <h4>CustomTextArea mta6 =new CustomTextArea(1007, 153, 200,100,  255, 255, 255,255, 63, 23 ,"text");</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/41.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/42.png"/>
 
-PROGRESS BAR:
+<h2>PROGRESS BAR:</h2>
+<h3>Default Color Progressbar</h3>
 <h4>CustomProgressBar mpb1 = new CustomProgressBar(151, 274, 150, 50, 0, 10);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/43.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/44.png"/>
 
+<h3>Foreground Color Progressbar</h3>
 <h4>CustomProgressBar mpb2 = new CustomProgressBar(Color.darkGray , 301, 274, 150, 50, 10, 10);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/45.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/46.png"/>
 
+<h3>Foreground Color Progressbar</h3>
 <h4>CustomProgressBar mpb3 = new CustomProgressBar(452, 274, 150, 50, 20, 10, Color.blue);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/47.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/48.png"/>
 
+<h3>Foreground & Background Color Progressbar</h3>
 <h4>CustomProgressBar mpb4 = new CustomProgressBar(602, 274, 150, 50, 30,10, Color.green, Color.red);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/49.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/50.png"/>
 
+<h3>Background & Foreground( in RGB ) Color Progressbar</h3>
 <h4>CustomProgressBar mpb5 = new CustomProgressBar(753, 274, 150, 50, 40, 10, 136, 202, 198, Color.yellow)</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/51.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/52.png"/>
 
+<h3>Background & Foreground Color in RGB Progressbar</h3>
 <h4>CustomProgressBar mpb6 = new CustomProgressBar(904, 274, 150, 50, 50, 10, 255,255,255,199, 0, 57  );</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/53.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/54.png"/>
        
-<h3>CIRCLE PROGRESS BAR:</h3>
+<h2>CIRCLE PROGRESS BAR:</h2>
+
+<h3>Circle Progressbar with Default Time:</h3>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/55.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/56.png"/>
        
-<h3>SIZABLE CIRCLE PROGRESS BAR:</h3>
+<h3>Circle Progressbar with Change Time:</h3>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/57.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/58.png"/>
