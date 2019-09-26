@@ -186,11 +186,13 @@
 <h2>CIRCLE PROGRESS BAR:</h2>
 
 <h3>Circle Progressbar with Default Time:</h3>
+<h4>CustomCircleProgressbarWithTime cpb2 = new CustomCircleProgressbarWithTime(0,400,300,300,mb2,Color.RED,Color.BLUE,Color.WHITE,mb);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/55.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/56.png"/>
        
 <h3>Circle Progressbar with Change Time:</h3>
+<h4>CustomCircleProgressbarWithTime cpb2 = new CustomCircleProgressbarWithTime(400,400,300,300,10,mb2,Color.black,Color.red,Color.black);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/57.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/58.png"/>
