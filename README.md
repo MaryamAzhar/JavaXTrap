@@ -14,7 +14,6 @@
 <h3>2.Import libraries and package in your project</h3>
 <h4>
 <ol type="i">
-<li>package UsingCustomControls;</li>
 <li>import CustomControls.*;</li>
 <li>import java.awt.*;</li>
 <li>import javax.swing.*;</li>
