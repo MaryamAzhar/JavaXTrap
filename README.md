@@ -195,7 +195,7 @@
 <h3>Circle Progressbar with Change Time:</h3>
 <h4>CustomCircleProgressbarWithTime cpb2 = new CustomCircleProgressbarWithTime(400,400,300,300,10,mb2,Color.black,Color.red,Color.black);</h4>
 
-<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/57's.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/57.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/58.png"/>
        
 <h3>Labels</h3>
