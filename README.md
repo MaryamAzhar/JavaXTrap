@@ -199,3 +199,17 @@
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/58.png"/>
        
 <h3>Labels</h3>
+<h4>CustomPrimaryButton mpbc = new CustomPrimaryButton("PRIMARY", 301, 0, 150, 50);</h4>
+
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/59.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/60.png"/>
+
+<h4>CustomPrimaryButton mpbc = new CustomPrimaryButton("PRIMARY", 301, 0, 150, 50);</h4>
+
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/61.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/62.png"/>
+
+<h4>CustomPrimaryButton mpbc = new CustomPrimaryButton("PRIMARY", 301, 0, 150, 50);</h4>
+
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/63.png"/>
+<img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/64.png"/>
