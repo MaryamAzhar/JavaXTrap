@@ -198,7 +198,7 @@
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/57.png"/>
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/58.png"/>
        
-<h3>Labels</h3>
+<h2>Labels</h2>
 <h4>CustomLabel cl1 = new CustomLabel(100,100,200,50,"text","Courier",Font.BOLD,16);</h4>
 
 <img src="https://github.com/azharandmaryam/JavaXTrap/blob/master/Images/59.png"/>
